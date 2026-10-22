@@ -14,7 +14,7 @@ No, too boring
 A basic platformer? That could just be the story
 ...
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Basic platformer because the charecter is trying to find a back entrance into a video game shop to get a console
